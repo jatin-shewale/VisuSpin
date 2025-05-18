@@ -79,7 +79,7 @@ function Footer({ theme }) {
         } text-center text-sm ${
           theme === 'dark' ? 'text-gray-400' : 'text-gray-600'
         }`}>
-          <p>© 2024 VisuSpin. All rights reserved.</p>
+          <p>© 2025 VisuSpin. All rights reserved. Jatin Shewale</p>
         </div>
       </div>
     </motion.footer>
